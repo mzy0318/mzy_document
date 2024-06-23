@@ -36,6 +36,10 @@ const array = [
     {
         text: "泛型",
         link: "/java/generics"
+    },
+    {
+        text: "异常",
+        link: "/java/exception"
     }
 ]
 
