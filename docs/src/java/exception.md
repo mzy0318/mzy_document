@@ -9,4 +9,4 @@ title: 异常
 
 异常又分为：`编译时异常`和`运行时异常`
 
-`编译时异常`没有继承RuntimeExcetipn的异常，直接继承于`Exception`。编译阶段就会错误提示
+`编译时异常`没有继承`RuntimeExcetipn`的异常，直接继承于`Exception`。编译阶段就会错误提示
